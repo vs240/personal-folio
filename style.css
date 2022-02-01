@@ -1,0 +1,41 @@
+body{
+text-align: center;
+background-color:#93FFD8;
+}
+h1{
+    width: 10%;
+    margin: 0 auto 0 auto;
+    font-family: "Leckerli One"; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; 
+}
+p{
+    margin: 0 auto 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.styler{
+    
+    width: 200px;
+height: 200px;
+padding: 10px;
+text-align: center;
+margin: 0 auto 0 auto;
+}
+.middle-container .skills{
+    background-color: aqua;
+   height: 500px;
+   display: block;
+}
+.bottom-container
+{
+    background-color: burlywood;
+}
+.middle-container .profile img{
+    border-radius: 80%;
+    width: 200px;
+}
+.middle-container .skills .skill-row .skillimg
+{
+    border-radius: 80%;
+    width: 200px;
+}
+
+}
